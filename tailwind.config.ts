@@ -21,8 +21,13 @@ const config: Config = {
         },
       },
       fontFamily: {
-        sans: ["DM Sans", "sans-serif"],
-        display: ["Bebas Neue", "sans-serif"],
+        sans: ["Inter", "sans-serif"],
+        display: [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif",
+        ],
       },
     },
   },
